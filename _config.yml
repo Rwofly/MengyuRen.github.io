@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mengyu Ren"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "student"
-  location         : "China"
-  employer         : "Hai Nan University"
-  uri              : # URL
+  location         : "Chinan Haikou"
+  employer         : "Hainan University"
+ # uri              : # URL
   email            : "renmengyu@hainanu.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
